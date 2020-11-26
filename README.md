@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Julius Seporaitis. At the moment I hover between being head of engineering and being senior software engineer. My areas of professional interest are - DevOps / Infrastructure / Developer Tools / Developer Productivity / Backend. I recently started documenting my ideas and experience in a blog. Some of my popular posts:
+* [Lessons From Two Years Of Depression](https://www.seporaitis.net/posts/2020/11/09/lessons-from-depression/) - on mental health;
+* [Build System At Genus AI](https://www.seporaitis.net/posts/2020/07/08/build-system-at-genus/) - on simple, but highly efficient continuous integration setup, accessible for all;
+* [How To Make A Custom Service Accessible Through boto3](https://www.seporaitis.net/posts/2020/06/29/aws-like-service-on-boto3/) - a  prototype of a very unconventional, but cool, boto3 usage;
+* [Bottom Up Problem Solving - Part I](https://www.seporaitis.net/posts/2020/06/08/bottom-up-problem-solving-part-one/), [Part II](https://www.seporaitis.net/posts/2020/06/21/bottom-up-problem-solving-part-two/) - how to approach problem solving incrementally;
+* [Large Scale Refactoring With PyBowler](https://www.seporaitis.net/posts/2020/05/19/large-scale-refactoring-with-pybowler/) - a walkthrough on changing code - with code.
+
+You are more than welcome to get in touch, if you'd like to share something cool, get feedback, would like advice, or informal mentorship in software engineering career. Do that through [LinkedIn](https://linkedin.com/in/seporaitis/) and mention this page in your message.
+
 <!--
 **seporaitis/seporaitis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
